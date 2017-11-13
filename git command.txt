@@ -1,0 +1,16 @@
+git config
+git config --global user.name ""
+git config --global user.email ""
+git config -list
+git help commit
+git
+git status
+git add <files | . - all files>
+git commit -m <"" - comment>
+git clone https://github.com/twbs/bootstrap.git
+
+Github
+
+git remote add origin https://github.com/Alexichs/Start_learn.git
+git push -u origin master
+
